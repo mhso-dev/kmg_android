@@ -1,0 +1,2 @@
+rootProject.name='kmg01'
+include ':app'
